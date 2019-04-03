@@ -1,31 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://wormcc.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wormcc.github.io/posts/hello/</loc>
-    <lastmod>2019-04-03T11:13:19+08:00</lastmod>
+    <loc>https://wormcc.github.io/post/start/</loc>
+    <lastmod>2019-04-03T11:56:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wormcc.github.io/categories/</loc>
+    <loc>https://wormcc.github.io/about/</loc>
+    <lastmod>2019-04-03T11:38:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wormcc.github.io/</loc>
+    <lastmod>2019-04-03T11:56:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wormcc.github.io/posts/</loc>
-    <lastmod>2019-04-03T11:13:19+08:00</lastmod>
+    <loc>https://wormcc.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wormcc.github.io/post/</loc>
+    <lastmod>2019-04-03T11:56:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wormcc.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wormcc.github.io/</loc>
-    <lastmod>2019-04-03T11:13:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
